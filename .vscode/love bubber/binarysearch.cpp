@@ -54,4 +54,5 @@ int main()
     cout<<"firting index"<<fbinaryseach( arr,14,3);
     cout<<"last"<<ebinaryseach( arr,14,3);
     cout<<sizeof(arr)/sizeof(int);
+    cout<<"yash";
 }
